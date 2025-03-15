@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Harshil Prajapati</h1>
 <h3 align="center">Linux Enthusiast | Python Developer | Web & Network Solutions</h3>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=harshil-prajapati&label=Profile%20views&color=0e75b6&style=flat" alt="harshil-prajapati" width="200/> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=harshil-prajapati&label=Profile%20views&color=0e75b6&style=flat" alt="harshil-prajapati" width="200 style="margin: 10px/> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshil-prajapati" alt="harshil-prajapati" width="100% /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshil-prajapati" alt="harshil-prajapati" width="100% style="margin: 10px /></a> </p>
 
 - 🔭 I’m currently working on [NOC-Issuance-System](https://github.com/harshil-prajapati/NOC-issuance-System)
 
