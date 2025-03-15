@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me :</h3>
 <p align="left">
 <!-- YouTube -->
-<a href="https://www.youtube.com/c/harshil-prajapati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="harshil-prajapati" height="50 width="50 /></a>
+<a href="https://www.youtube.com/@harshil-prajapati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="harshil-prajapati" height="50 width="50 /></a>
 <!-- Linkedin -->
 <a href="https://linkedin.com/in/harshilprajapati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshilprajapati" height="50 width="50 /></a>
 <!-- Dev -->
