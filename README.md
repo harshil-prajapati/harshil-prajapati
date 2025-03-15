@@ -36,5 +36,5 @@
 
 <div style="display: flex; justify-content: space-between;">
   <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=harshil-prajapati&show_icons=true&locale=en&layout=compact" alt="harshil-prajapati" width="45%" /></p>
-  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=harshil-prajapati&" alt="harshil-prajapati" width="45%" /></p>
+  <!-- <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=harshil-prajapati&" alt="harshil-prajapati" width="45%" /></p> -->
 </div>
