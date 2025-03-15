@@ -17,16 +17,16 @@
 
 <h3 align="left">Connect with me :</h3>
 <p align="left">
-<!-- Dev -->
-<a href="https://dev.to/harshilprajapati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="harshilprajapati" height="50 width="50 /></a>
-<!-- Linkedin -->
-<a href="https://linkedin.com/in/harshilprajapati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshilprajapati" height="50 width="50 /></a>
-<!-- StackOverFlow -->
-<a href="https://stackoverflow.com/users/22668951" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22668951" height="50 width="50 /></a>
 <!-- YouTube -->
 <a href="https://www.youtube.com/c/harshil-prajapati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="harshil-prajapati" height="50 width="50 /></a>
+<!-- Linkedin -->
+<a href="https://linkedin.com/in/harshilprajapati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshilprajapati" height="50 width="50 /></a>
+<!-- Dev -->
+<a href="https://dev.to/harshilprajapati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="harshilprajapati" height="50 width="50 /></a>
 <!-- LeetCode -->
 <a href="https://www.leetcode.com/harshilprajapati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="harshilprajapati" height="50 width="50 /></a>
+<!-- StackOverFlow -->
+<a href="https://stackoverflow.com/users/22668951" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22668951" height="50 width="50 /></a>
 <!-- GeeksForGeeks -->
 <a href="https://auth.geeksforgeeks.org/user/harshilprajapati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="harshilprajapati" height="50 width="50 /></a>
 </p>
