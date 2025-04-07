@@ -17,25 +17,20 @@ Here's the updated version of your content in a list format without using any im
 
 ## Connect with me:
 
-| Platform   | Link                                      |
+| Platform   |
 |------------|-------------------------------------------|
 | [YouTube](https://www.youtube.com/@harshil-prajapati)  | [LinkedIn](https://linkedin.com/in/harshilprajapati)  |
 | [Dev.to](https://dev.to/harshilprajapati)    | [LeetCode](https://www.leetcode.com/harshilprajapati)  |
 | [StackOverflow](https://stackoverflow.com/users/22668951) | [GeeksForGeeks](https://auth.geeksforgeeks.org/user/harshilprajapati) |
 
-<br> <!-- Line break for spacing -->
-
 ## Languages and Tools:
 
-| Language/Tool  | Link                                      |
+| Language/Tool  |
 |----------------|-------------------------------------------|
 | [Python](https://www.python.org) | [React](https://reactjs.org/) |
 | [Node.js](https://nodejs.org)   | [Git](https://git-scm.com/)   |
 | [Tailwind CSS](https://tailwindcss.com/) | [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) |
 | [Java](https://www.java.com)   | [Linux](https://www.linux.org/) |
 | [MongoDB](https://www.mongodb.com/) | [MySQL](https://www.mysql.com/) |
-
-<br> <!-- Line break for spacing -->
-
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshil-prajapati" alt="harshil-prajapati" width="100% style="margin: 10px /></a> </p>
