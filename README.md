@@ -17,7 +17,7 @@ Here's the updated version of your content in a list format without using any im
 
 ## Connect with me:
 
-| Platform   |
+| Platform   ||
 |------------|-------------------------------------------|
 | [YouTube](https://www.youtube.com/@harshil-prajapati)  | [LinkedIn](https://linkedin.com/in/harshilprajapati)  |
 | [Dev.to](https://dev.to/harshilprajapati)    | [LeetCode](https://www.leetcode.com/harshilprajapati)  |
@@ -25,7 +25,7 @@ Here's the updated version of your content in a list format without using any im
 
 ## Languages and Tools:
 
-| Language/Tool  |
+| Language/Tool  ||
 |----------------|-------------------------------------------|
 | [Python](https://www.python.org) | [React](https://reactjs.org/) |
 | [Node.js](https://nodejs.org)   | [Git](https://git-scm.com/)   |
