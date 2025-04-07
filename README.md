@@ -15,7 +15,7 @@
 
 Here's the updated version of your content in a list format without using any images:
 
-## Connect with me:
+<!-- ## Connect with me:
 
 | Platform   ||
 |------------|-------------------------------------------|
@@ -31,6 +31,6 @@ Here's the updated version of your content in a list format without using any im
 | [Node.js](https://nodejs.org)   | [Git](https://git-scm.com/)   |
 | [Tailwind CSS](https://tailwindcss.com/) | [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) |
 | [Java](https://www.java.com)   | [Linux](https://www.linux.org/) |
-| [MongoDB](https://www.mongodb.com/) | [MySQL](https://www.mysql.com/) |
+| [MongoDB](https://www.mongodb.com/) | [MySQL](https://www.mysql.com/) | -->
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshil-prajapati" alt="harshil-prajapati" width="100% style="margin: 10px /></a> </p>
