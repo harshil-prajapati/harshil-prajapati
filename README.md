@@ -3,7 +3,8 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=harshil-prajapati&label=Profile%20views&color=0e75b6&style=flat" alt="harshil-prajapati" width="200 style="margin: 10px/> </p>
 
-- 🔭 I’m currently working on [Money Manager](https://github.com/harshil-prajapati/money_manager)
+- 🔭 I’m currently working on [Money Manager Web](https://github.com/harshil-prajapati/money-manager-web) [Money Manager Android](https://github.com/harshil-prajapati/money-manager-android)
+
 
 - 🌱 I’m currently learning [Mastering Linux](https://www.udemy.com/course/mastering-linux/)
 
