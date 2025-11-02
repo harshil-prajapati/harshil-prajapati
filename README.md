@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Harshil Prajapati</h1>
+<h1 align="center">Hi, I'm Harshil Prajapati</h1>
 <h3 align="center">Linux Enthusiast | Python Developer | Web & Network Solutions</h3>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=harshil-prajapati&label=Profile%20views&color=0e75b6&style=flat" alt="harshil-prajapati" width="200 style="margin: 10px/> </p>
