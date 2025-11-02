@@ -3,16 +3,16 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=harshil-prajapati&label=Profile%20views&color=0e75b6&style=flat" alt="harshil-prajapati" width="200 style="margin: 10px/> </p>
 
-- 🔭 I’m currently working on Money Manager [Web](https://github.com/harshil-prajapati/money-manager-web) & [Android](https://github.com/harshil-prajapati/money-manager-android)
+- I’m currently working on Money Manager [Web](https://github.com/harshil-prajapati/money-manager-web) & [Android](https://github.com/harshil-prajapati/money-manager-android)
 
 
-- 🌱 I’m currently learning [Mastering Linux](https://www.udemy.com/course/mastering-linux/)
+- I’m currently learning [Mastering Linux](https://www.udemy.com/course/mastering-linux/)
 
-- 👨‍💻 All of my projects are available at [https://github.com/harshil-prajapati/](https://github.com/harshil-prajapati/)
+- All of my projects are available at [https://github.com/harshil-prajapati/](https://github.com/harshil-prajapati/)
 
-- 📫 How to reach me mr.harshilprajapati@gmail.com
+- How to reach me mr.harshilprajapati@gmail.com
 
-- ⚡ Fun fact A Linux enthusiast with a knack for Python development, always diving deep into the specific niches that fuel his tech passion!
+- Fun fact A Linux enthusiast with a knack for Python development, always diving deep into the specific niches that fuel his tech passion!
 
 Here's the updated version of your content in a list format without using any images:
 
@@ -33,5 +33,3 @@ Here's the updated version of your content in a list format without using any im
 | [Tailwind CSS](https://tailwindcss.com/) | [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) |
 | [Java](https://www.java.com)   | [Linux](https://www.linux.org/) |
 | [MongoDB](https://www.mongodb.com/) | [MySQL](https://www.mysql.com/) | -->
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshil-prajapati" alt="harshil-prajapati" width="100% style="margin: 10px /></a> </p>
