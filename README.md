@@ -3,7 +3,7 @@
 
 ---
 
-### About Me
+### About Me :
 
 - I’m currently working on **Money Manager**
   - [Money Manager Web](https://github.com/harshil-prajapati/money-manager-web)
@@ -16,44 +16,32 @@
 
 - How to reach me: **mr.harshilprajapati@gmail.com**
 
-- Fun fact:  
+- Fun fact :  
   A Linux enthusiast with a knack for Python development — always exploring new technologies and refining efficient, scalable solutions.
 
 ---
 
-### Connect with Me
+## Connect with Me :
 
-- [YouTube](https://www.youtube.com/@harshil-prajapati)
-- [LinkedIn](https://linkedin.com/in/harshilprajapati)
-- [Dev.to](https://dev.to/harshilprajapati)
-- [LeetCode](https://www.leetcode.com/harshilprajapati)
-- [Stack Overflow](https://stackoverflow.com/users/22668951)
-- [GeeksForGeeks](https://auth.geeksforgeeks.org/user/harshilprajapati)
+| [YouTube](https://www.youtube.com/@harshil-prajapati) | [LinkedIn](https://linkedin.com/in/harshilprajapati) | [Dev.to](https://dev.to/harshilprajapati) |
+|:------------------------------------------------------:|:----------------------------------------------------:|:------------------------------------------:|
+| [LeetCode](https://www.leetcode.com/harshilprajapati) | [Stack Overflow](https://stackoverflow.com/users/22668951) | [GeeksForGeeks](https://auth.geeksforgeeks.org/user/harshilprajapati) |
 
 ---
 
-### Languages and Tools
+## Languages and Tools :
 
-**Core Skills**
-- [Linux](https://www.linux.org/)
-- [Git](https://git-scm.com/)
-- [Python](https://www.python.org)
-- [React](https://reactjs.org/)
-- [Node.js](https://nodejs.org)
-
-**Databases and Cloud**
-- [MongoDB](https://www.mongodb.com/)
-- [Firebase](https://firebase.google.com/)
-- [AWS](https://aws.amazon.com/)
-- [MySQL](https://www.mysql.com/)
-
-**Mobile and Others**
-- [Kotlin](https://kotlinlang.org/)
-- [Flutter](https://flutter.dev/)
+| **Core Skills** | **Databases & Cloud** | **Mobile & Others** |
+|:----------------|:----------------------|:--------------------|
+| [Linux](https://www.linux.org/) | [MongoDB](https://www.mongodb.com/) | [Kotlin](https://kotlinlang.org/) |
+| [Git](https://git-scm.com/) | [Firebase](https://firebase.google.com/) | [Flutter](https://flutter.dev/) |
+| [Python](https://www.python.org) | [AWS](https://aws.amazon.com/) |  |
+| [React](https://reactjs.org/) | [MySQL](https://www.mysql.com/) |  |
+| [Node.js](https://nodejs.org) |  |  |
 
 ---
 
-### Developer Philosophy
+### Developer Philosophy :
 
 > "Technology is not just about building solutions — it's about understanding systems deeply and creating meaningful impact through code."
 
