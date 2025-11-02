@@ -14,9 +14,7 @@
 
 - Fun fact A Linux enthusiast with a knack for Python development, always diving deep into the specific niches that fuel his tech passion!
 
-Here's the updated version of your content in a list format without using any images:
-
-<!-- ## Connect with me:
+## Connect with me :
 
 | Platform   ||
 |------------|-------------------------------------------|
@@ -24,7 +22,7 @@ Here's the updated version of your content in a list format without using any im
 | [Dev.to](https://dev.to/harshilprajapati)    | [LeetCode](https://www.leetcode.com/harshilprajapati)  |
 | [StackOverflow](https://stackoverflow.com/users/22668951) | [GeeksForGeeks](https://auth.geeksforgeeks.org/user/harshilprajapati) |
 
-## Languages and Tools:
+## Languages and Tools :
 
 | Language/Tool  ||
 |----------------|-------------------------------------------|
@@ -32,4 +30,4 @@ Here's the updated version of your content in a list format without using any im
 | [Node.js](https://nodejs.org)   | [Git](https://git-scm.com/)   |
 | [Tailwind CSS](https://tailwindcss.com/) | [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) |
 | [Java](https://www.java.com)   | [Linux](https://www.linux.org/) |
-| [MongoDB](https://www.mongodb.com/) | [MySQL](https://www.mysql.com/) | -->
+| [MongoDB](https://www.mongodb.com/) | [MySQL](https://www.mysql.com/) |
