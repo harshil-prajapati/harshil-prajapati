@@ -1,52 +1,111 @@
-<h1 align="center">Hi, I'm Harshil Prajapati</h1>
-<h3 align="center">Linux Enthusiast | Python Developer | Web & Network Solutions</h3>
+<div align="center">
+
+<h1>Harshil Prajapati</h1>
+
+<h3>Linux Enthusiast &nbsp; • &nbsp; Full Stack Developer &nbsp; • &nbsp; Android Dev</h3>
+
+<br/>
+
+<a href="https://harshilprajapati.com" target="_blank">
+  <code>✨ VISIT MY PORTFOLIO : harshilprajapati.com ✨</code>
+</a>
+
+<br/>
+<br/>
+
+</div>
 
 ---
 
-### About Me :
+### 👨‍💻 Terminal Intro
 
-- I’m currently working on **Money Manager**
-  - [Money Manager Web](https://github.com/harshil-prajapati/money-manager-web)
-  - [Money Manager Android](https://github.com/harshil-prajapati/money-manager-android)
+```bash
+harshil@linux-box:~$ whoami
+> Harshil Prajapati
 
-- I’m currently learning **[Mastering Linux](https://www.udemy.com/course/mastering-linux/)**
+harshil@linux-box:~$ cat about.txt
+> I am a developer based in Gujarat, India.
+> I build scalable web apps, Android applications, and love system automation.
+> Currently exploring AWS Cloud and Advanced Linux systems.
 
-- All of my projects are available at  
-  [github.com/harshil-prajapati](https://github.com/harshil-prajapati/)
-
-- How to reach me: **mr.harshilprajapati@gmail.com**
-
-- Fun fact :  
-  A Linux enthusiast with a knack for Python development — always exploring new technologies and refining efficient, scalable solutions.
-
----
-
-## Connect with Me :
-
-| [YouTube](https://www.youtube.com/@harshil-prajapati) | [LinkedIn](https://linkedin.com/in/harshilprajapati) | [Dev.to](https://dev.to/harshilprajapati) |
-|:------------------------------------------------------:|:----------------------------------------------------:|:------------------------------------------:|
-| [LeetCode](https://www.leetcode.com/harshilprajapati) | [Stack Overflow](https://stackoverflow.com/users/22668951) | [GeeksForGeeks](https://auth.geeksforgeeks.org/user/harshilprajapati) |
+harshil@linux-box:~$ ./current-status.sh
+> 🔭 Working on: Money Manager (Full Stack)
+> 🌱 Learning: AWS Cloud Services
+> 💬 Ask me about: React, Linux, Kotlin
+```
 
 ---
 
-## Languages and Tools :
+### 🚀 Featured Projects
 
-| **Core Skills** | **Databases & Cloud** | **Mobile & Others** |
-|:----------------|:----------------------|:--------------------|
-| [Linux](https://www.linux.org/) | [MongoDB](https://www.mongodb.com/) | [Kotlin](https://kotlinlang.org/) |
-| [Git](https://git-scm.com/) | [Firebase](https://firebase.google.com/) | [Flutter](https://flutter.dev/) |
-| [Python](https://www.python.org) | [AWS](https://aws.amazon.com/) |  |
-| [React](https://reactjs.org/) | [MySQL](https://www.mysql.com/) |  |
-| [Node.js](https://nodejs.org) |  |  |
+| Project | Description | Tech Stack | Links |
+| :--- | :--- | :--- | :--- |
+| **Money Manager** | Full-stack financial tracking with sync capabilities across devices. | `Kotlin` `Firebase` `MVVM` | [**Web**](https://github.com/harshil-prajapati/money-manager-web) • [**Android**](https://github.com/harshil-prajapati/money-manager-android) |
+| **Cash Deposit** | Utility app for shopkeepers to tally cash instantly & share via WhatsApp. | `Android` `Kotlin` `Utils` | [**Play Store**](https://play.google.com/store/apps/details?id=com.harshilprajapati.cashdeposit) |
+| **Track My Funds** | A lightweight CLI finance tracker for terminal lovers. | `Python` `JSON` `CLI` | [**GitHub**](https://github.com/harshil-prajapati/track-my-funds) |
 
 ---
 
-### Developer Philosophy :
+### 🛠️ Languages & Tools
 
-> "Technology is not just about building solutions — it's about understanding systems deeply and creating meaningful impact through code."
+<table align="center">
+<tr>
+<td align="center" width="90">
+<strong>Front</strong>
+</td>
+<td align="center" width="90">
+<strong>Back</strong>
+</td>
+<td align="center" width="90">
+<strong>Mobile</strong>
+</td>
+<td align="center" width="90">
+<strong>DevOps</strong>
+</td>
+</tr>
+<tr>
+<td align="center">
+React<br>
+Tailwind<br>
+HTML5<br>
+Vite
+</td>
+<td align="center">
+Node.js<br>
+Python<br>
+Firebase<br>
+MongoDB
+</td>
+<td align="center">
+Kotlin<br>
+Android<br>
+Flutter<br>
+XML
+</td>
+<td align="center">
+Linux<br>
+AWS<br>
+Git<br>
+Bash
+</td>
+</tr>
+</table>
 
 ---
 
-<p align="center">
-  Made with passion and precision by <strong>Harshil Prajapati</strong>
-</p>
+### 📬 Connect with Me
+
+<div align="center">
+
+| Platform | Link |
+| :--- | :--- |
+| **Email** | [mr.harshilprajapati@gmail.com](mailto:mr.harshilprajapati@gmail.com) |
+| **LinkedIn** | [linkedin.com/in/harshilprajapati](https://linkedin.com/in/harshilprajapati) |
+| **YouTube** | [@harshil-prajapati](https://www.youtube.com/@harshil-prajapati) |
+| **Dev.to** | [dev.to/harshilprajapati](https://dev.to/harshilprajapati) |
+
+<br>
+
+<em>"Technology is not just about building solutions — it's about understanding systems deeply."</em>
+
+</div>
