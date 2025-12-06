@@ -25,9 +25,7 @@ const HeroSlide = () => {
         
         <div className="flex flex-wrap justify-center gap-2 md:gap-4 text-sm md:text-xl font-mono font-medium tracking-wide">
           <span className="text-emerald-400">Linux Enthusiast</span>
-          <span className="text-neutral-600">|</span>
           <span className="text-purple-400">Full Stack Dev</span>
-          <span className="text-neutral-600">|</span>
           <span className="text-cyan-400">Android Dev</span>
         </div>
       </motion.div>

@@ -42,7 +42,7 @@ const ContactSlide = () => {
               - Hover: Red Text & Border (Matches your request)
           */}
           <a 
-            href="mailto:mr.harshilprajapati@gmail.com" 
+            href="mailto:mr.harshilprajapati+website@gmail.com" 
             className="flex items-center gap-3 px-8 py-4 border border-neutral-700 text-neutral-400 rounded-full text-lg font-bold transition-all 
             hover:border-red-600 hover:text-red-600 hover:shadow-[0_0_30px_rgba(220,38,38,0.4)] hover:scale-105 bg-neutral-900/50"
           >

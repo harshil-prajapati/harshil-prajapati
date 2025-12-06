@@ -7,7 +7,7 @@
 <br/>
 
 <a href="https://harshilprajapati.com" target="_blank">
-  <code>✨ VISIT MY PORTFOLIO : harshilprajapati.com ✨</code>
+  <code>VISIT MY PORTFOLIO : harshilprajapati.com</code>
 </a>
 
 <br/>
@@ -17,7 +17,7 @@
 
 ---
 
-### 👨‍💻 Terminal Intro
+### Terminal Intro
 
 ```bash
 harshil@linux-box:~$ whoami
@@ -29,24 +29,24 @@ harshil@linux-box:~$ cat about.txt
 > Currently exploring AWS Cloud and Advanced Linux systems.
 
 harshil@linux-box:~$ ./current-status.sh
-> 🔭 Working on: Money Manager (Full Stack)
-> 🌱 Learning: AWS Cloud Services
-> 💬 Ask me about: React, Linux, Kotlin
+> Working on: Money Manager (Full Stack)
+> Learning: AWS Cloud Services
+> Ask me about: React, Linux, Kotlin
 ```
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 | Project | Description | Tech Stack | Links |
 | :--- | :--- | :--- | :--- |
-| **Money Manager** | Full-stack financial tracking with sync capabilities across devices. | `Kotlin` `Firebase` `MVVM` | [**Web**](https://github.com/harshil-prajapati/money-manager-web) • [**Android**](https://github.com/harshil-prajapati/money-manager-android) |
-| **Cash Deposit** | Utility app for shopkeepers to tally cash instantly & share via WhatsApp. | `Android` `Kotlin` `Utils` | [**Play Store**](https://play.google.com/store/apps/details?id=com.harshilprajapati.cashdeposit) |
-| **Track My Funds** | A lightweight CLI finance tracker for terminal lovers. | `Python` `JSON` `CLI` | [**GitHub**](https://github.com/harshil-prajapati/track-my-funds) |
+| **Money Manager** | Full-stack financial tracking with sync capabilities across devices. | `Kotlin` `Firebase` `MVVM` |[Play Store](https://play.google.com/store/apps/details?id=com.harshilprajapati.moneymanager) |
+| **Cash Deposit** | Utility app for shopkeepers to tally cash instantly & share via WhatsApp. | `Android` `Kotlin` `Utils` | [Play Store](https://play.google.com/store/apps/details?id=com.harshilprajapati.cashdeposit) |
+| **Track My Funds** | A lightweight CLI finance tracker for terminal lovers. | `Python` `JSON` `CLI` | [GitHub](https://github.com/harshil-prajapati/track-my-funds) |
 
 ---
 
-### 🛠️ Languages & Tools
+### Languages & Tools
 
 <table align="center">
 <tr>
@@ -93,13 +93,13 @@ Bash
 
 ---
 
-### 📬 Connect with Me
+### Connect with Me
 
 <div align="center">
 
 | Platform | Link |
 | :--- | :--- |
-| **Email** | [mr.harshilprajapati@gmail.com](mailto:mr.harshilprajapati@gmail.com) |
+| **Email** | [mr.harshilprajapati@gmail.com](mailto:mr.harshilprajapati+github@gmail.com) |
 | **LinkedIn** | [linkedin.com/in/harshilprajapati](https://linkedin.com/in/harshilprajapati) |
 | **YouTube** | [@harshil-prajapati](https://www.youtube.com/@harshil-prajapati) |
 | **Dev.to** | [dev.to/harshilprajapati](https://dev.to/harshilprajapati) |
