@@ -81,7 +81,7 @@ const ProjectsSlide = () => {
                   {project.platformIcon}
                 </div>
                 
-                <p className="text-neutral-400 text-sm leading-relaxed mb-6 group-hover:text-neutral-300 transition-colors text-justify">
+                <p className="text-neutral-400 text-lg leading-relaxed mb-6 group-hover:text-neutral-300 transition-colors text-justify">
                   {project.desc}
                 </p>
               </div>
